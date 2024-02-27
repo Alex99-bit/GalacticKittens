@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/IntroductionToNGO/1_PreparingTheScene/FinishedScene.unity
     guid: a3654ca7e9d86d34f969b6b92afa2907
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/IntroductionToNGO/1_PreparingTheScene/StartHere.unity
     guid: fa5391f654f8b44ddad81c43d6d47415
   - enabled: 1
