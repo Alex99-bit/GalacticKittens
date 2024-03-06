@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/IntroductionToNGO/2_WorkingScene/SampleNGOscene.unity
     guid: 418d0106ddb8b4061842adc31ba02789
+  - enabled: 1
+    path: Assets/Alexco/Scenes/Alexco.unity
+    guid: 4281f809143ab19408c0079d930517ea
   m_configObjects: {}
